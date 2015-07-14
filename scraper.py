@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import scraperwiki
 from pyquery import PyQuery
 #import pyquery
 import re
