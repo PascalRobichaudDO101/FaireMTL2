@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import pyquery
+from pyquery import PyQuery
+#import pyquery
 import re
 
 ROOT = 'https://fairemtl.ca'
